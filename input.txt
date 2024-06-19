@@ -1,0 +1,7 @@
+44,Atharv,CS,19,100
+77,Yash,ENTC,24,77
+55,Rohan,IT,20,90
+33,Ashmit,Mech,21,80
+22,Om,Instru,22,56
+11,Deepak,Chemical,23,27
+66,Yash,Planning,24,77
